@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "First Stream",
+      "description": "Best Stream",
+      "id": 1
+    },
+    {
+      "title": "Unexpected Behavior",
+      "description": "Didn't expect that!",
+      "id": 2
+    },
+    {
+      "title": "Another Dull Stream For Today",
+      "description": "Yes, another one.",
+      "id": 3
+    }
+  ]
+}
